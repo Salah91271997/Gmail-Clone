@@ -1,18 +1,18 @@
 # Gmail Clone with ReactJS
 
-## Functionality
+## Description
+
+- Gmail-Clone, Implemented using React and Firebase
+- Behind the backend, I was used React-Firebase for authentication with Google-auth
+
+## Features
 
 - sign in with your Google Account
 - create a new e-mail and send realtime emails to the project
 
-Click demo to try it by yourself!
+## Demo Link
 
-## Gmail Clone Demo Link
-
-You can view the site here
-[Click Me](https://gmaiil-clone-v1.web.app/)
-
-## Topics
+## Built With/Topics
 
 - Redux
 - Material UI
