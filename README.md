@@ -3,7 +3,7 @@
 ## Description
 
 - Gmail-Clone, Implemented using React and Firebase
-- Behind the backend, I was used React-Firebase for authentication with Google-auth
+- Behind the backend, I used React-Firebase for authentication with Google-auth
 
 ## Features
 
